@@ -1,1 +1,1 @@
-# ARIMA-Seasonal-ARIMA
+# ARIMA-And-Seasonal-ARIMA
